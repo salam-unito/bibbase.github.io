@@ -5,3 +5,8 @@ body {
 .spacer {
     height: 3rem;
 }
+
+object{
+     width:100%;
+     max-height:100% ;
+}
