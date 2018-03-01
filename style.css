@@ -11,8 +11,8 @@ object{
      height:100%;
 }
 
-embed {
-     overflow:hidden;
+embed {     
      width:100%;
      height:100%;
+     overflow:hidden;
 }
